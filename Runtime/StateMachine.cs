@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace FSM
+namespace VoydVoyd.FSM
 {
     public class StateMachine
     {

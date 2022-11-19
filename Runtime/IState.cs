@@ -1,4 +1,4 @@
-﻿namespace FSM
+﻿namespace VoydVoyd.FSM
 {
     public interface IState
     {
