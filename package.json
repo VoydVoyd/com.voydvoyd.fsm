@@ -1,0 +1,11 @@
+{
+  "name": "com.voydvoyd.fsm",
+  "displayName": "Finite State Machine",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "description": "Scripts for constructing finite state machine behaviours.",
+  "keywords": [
+    "fsm",
+    "state machine"
+  ]
+}
